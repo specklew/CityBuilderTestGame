@@ -28,6 +28,9 @@ Additionally, the project also includes:
 
 ## Future Plans
 
+Currently working on: Lumberjack AI.
+
+Next:
 - NPC running around the map.
 - Grid generator using instanced static meshes.
 - Some kind of an interaction system with the NPC. (To make them build for you!)
