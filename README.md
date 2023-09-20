@@ -39,6 +39,7 @@ If you have any other suggestions, please send them to me!
 
 ## Other
 
-Meshes of the decorations on the tiles downloaded from [here](https://kenney.nl/assets)
+Meshes of the decorations on the tiles & UI sprites downloaded from [here](https://kenney.nl/assets)
+Icons of resources from [here] (https://franuka.itch.io/rpg-icon-pack)
 
 Developed with Unreal Engine 5.2.1.
